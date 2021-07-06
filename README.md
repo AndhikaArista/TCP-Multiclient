@@ -8,7 +8,7 @@ Multiclient Multithread Using TCP Server
 ```
 "D:\Kuliah\Semester 4\Workshop Arsitektur Jaringan dan Komputer\FP C#\Server\ServerChatData.txt"
 ```
-to your .txt file
+to your location .txt file
 
 4. You must run the server first, then run the client
 
