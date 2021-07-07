@@ -15,3 +15,7 @@ to your location .txt file
 
 # Result
 ![alt text](https://github.com/AndhikaArista/TCP-Multiclient/blob/main/Result.png)
+
+# Flowchart Diagram
+Here is the flowchart in this program :
+![Flowchart](https://user-images.githubusercontent.com/63576097/124749970-1acd3a80-df4f-11eb-934b-aee49db096b2.jpg)
